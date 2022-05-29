@@ -1,0 +1,3 @@
+
+service ftp start
+bash
